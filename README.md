@@ -10,7 +10,7 @@ Before running this application, make sure you have the following:
 # Installation and Setup
 1. Clone or download this repository to your local machine.
 
-- git clone https://github.com/your-username/loan-prediction-app.git
+- git clone https://github.com/Spraveen8-chary/loan-prediction.git
   
 2. Navigate to the project directory.
 
